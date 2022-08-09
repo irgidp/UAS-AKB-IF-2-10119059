@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/palette1"
+    tools:context=".main.menu.info.InfoFragment">
+
+    <!--
+    NIM : 10119059
+    Nama : Irgi Dwiputra
+    Kelas : IF-2/VI
+    Tanggal : Selasa, 9 Agustus 2022
+    Membuat tampilan fragment info dengan viewpager
+    -->
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</LinearLayout>

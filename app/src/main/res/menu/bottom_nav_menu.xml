@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--    NIM : 10119059
+        Nama : Irgi Dwiputra
+        Kelas : IF-2/VI
+        Tanggal : Selasa, 9 Agustus 2022
+        Membuat tampilan botton nav menu-->
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="Profil" />
+
+    <item
+        android:id="@+id/navigation_diary"
+        android:icon="@drawable/ic_baseline_notes_24"
+        android:title="Your Diary" />
+
+    <item
+        android:id="@+id/navigation_info"
+        android:icon="@drawable/ic_baseline_info_24"
+        android:title="Info" />
+
+    <item
+        android:id="@+id/navigation_account"
+        android:icon="@drawable/ic_baseline_account_circle_24"
+        android:title="Account" />
+
+</menu>

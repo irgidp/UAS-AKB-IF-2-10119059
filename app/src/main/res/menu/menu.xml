@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--    NIM : 10119059
+        Nama : Irgi Dwiputra
+        Kelas : IF-2/VI
+        Tanggal : Selasa, 9 Agustus 2022
+        Membuat tampilan menu untuk card delete/update-->
+
+    <item
+        android:id="@+id/menuUpdate"
+        android:title="Update"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/menuDelete"
+        android:title="Delete"
+        app:showAsAction="ifRoom" />
+
+
+
+</menu>

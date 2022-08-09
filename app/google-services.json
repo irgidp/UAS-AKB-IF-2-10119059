@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476785935264",
+    "project_id": "daileee-project",
+    "firebase_url": "https://daileee-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "daileee-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476785935264:android:288508459d1c33cdb91ac5",
+        "android_client_info": {
+          "package_name": "com.example.uas_akb_if_2_10119059"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476785935264-k3j9efnv4on4a7vekuohasurq32bir42.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4YtbV-eyPk2D6uOzGijOWd9xJXFwYDsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476785935264-k3j9efnv4on4a7vekuohasurq32bir42.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
